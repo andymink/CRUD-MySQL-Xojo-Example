@@ -14,3 +14,9 @@ You can consider this program as a kind of structure on which all MySQL database
 🛟 The application code is commented to make learning easier. Everything has been done to make the code as adaptable as possible.
 
 Created with Xojo 2025 release 1, using API 2.
+
+<p>If you're interested in using a SQLite database with Xojo instead of MySQL, please check out my other project: 
+  <a href="https://github.com/Fab2bprog/CRUD-Sqlite-Xojo-Example" target="_blank">
+    CRUD Sqlite Xojo Example
+  </a>.
+</p>
